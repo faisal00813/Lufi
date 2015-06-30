@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Lucene.Net</id>
+    <version>2.9.2.2</version>
+    <title>Lucene.Net - (strong named 2.0/4.0)</title>
+    <authors>Apache Software Foundation</authors>
+    <owners>Apache Software Foundation</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://incubator.apache.org/lucene.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lucene.Net is a source code, class-per-class, API-per-API and algorithmatic port of the Java Lucene search engine to the .NET platform
+
+The Lucene.Net group manages the NuGet package titled "Lucene".  This build does not modify any source files from the original download at:
+http://www.apache.org/dist/incubator/lucene.net/source/2.9.2-incubating/Apache-Lucene.Net-2.9.2-incubating.src.zip
+
+The package is produced to provide an alternative strong named release build with symbols in both the 2.0 and 4.0 .NET Framework versions.</description>
+    <summary>Lucene.Net - a port of the Java Lucene search engine to the .NET platform.</summary>
+    <releaseNotes />
+    <copyright>Copyright 2006 - 2011 The Apache Software Foundation</copyright>
+    <language />
+    <tags>lucene search index indexing</tags>
+    <references>
+      <reference file="Lucene.Net.dll" />
+    </references>
+  </metadata>
+</package>
